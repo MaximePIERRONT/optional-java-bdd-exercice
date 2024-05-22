@@ -30,8 +30,8 @@ L'objectif de cet exercice est de trouver une solution au problème des huit dam
 
 1. Clonez ce dépôt :
     ```bash
-    git clone <URL_du_dépôt>
-    cd <nom_du_dépôt>
+    git clone https://github.com/MaximePIERRONT/optional-java-bdd-exercice
+    cd optional-java-bdd-exercice
     ```
 
 2. Construisez le projet avec Maven :
